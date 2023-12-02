@@ -1,9 +1,8 @@
-# 💫 About Me:
-👋 Hello, Welcome <br><br>
-💼 Professional Background:
+# 👋 Hello there, I'm Triumph Ndlovu<br><br>
+### 💼 Professional Background:
 <br>Final Year Computer Science Student @UniversityofPretoria, Full stack Developer that Likes Working with Frameworks
 <br><br>
-🚀 Current Focus:
+### 🚀 Current Focus:
 <br>
 Currently Learning new frameworks and Bettering my Software Engineering Skills
 <br>
@@ -20,20 +19,22 @@ Currently Learning new frameworks and Bettering my Software Engineering Skills
 | Hosting             | Vercel, Firebase                                  |
 
 
-🌎 Outside of Coding:<br>I love Skateboarding 🛹, I love art and Nature and also a Sonic Addict 🎶
+### 🌎 Outside of Coding:
+<br>I love Skateboarding 🛹, I love art and Nature and also a Sonic Addict 🎶
 <br>
 <br>
-📫 Get in Touch:
+
+### 📫 Get in Touch:
 <br>I'm always open to exciting new opportunities, collaboration, and engaging discussions. Feel free to reach out to me via email at realtriumphndlovu@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/triumph-ndlovu-425b73274/).
 <br>
 <br>
 Thank you for visiting my GitHub profile, and I look forward to connecting with you! ❤<br>
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/triumph-ndlovu-425b73274/) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
