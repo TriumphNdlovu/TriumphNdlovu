@@ -8,15 +8,17 @@
 Currently Learning new frameworks and Bettering my Software Engineering Skills
 <br>
 <br>
-🌟 Key Skills:
-<br>
-- Front-end: HTML, CSS, JavaScript, Angular, tailwind, NextUi
--  Back-end: Node.js , Next.js
--  Databases: Firebase FireStore, Supabase
--  Version Control: Git, GitHub
--  Project Management: Jira, Notion,Github issues
--  Hosting: vercel and firebase
-<br>
+🌟 **Key Skills:**
+
+| Category            | Technologies                                      |
+|---------------------|---------------------------------------------------|
+| Front-end           | HTML, CSS, JavaScript, Angular, tailwind, Next.js |
+| Back-end            | Node.js, Next.js                                  |
+| Databases           | Firebase Firestore, Supabase                      |
+| Version Control     | Git, GitHub                                       |
+| Project Management  | Jira, Notion, GitHub Issues                       |
+| Hosting             | Vercel, Firebase                                  |
+
 
 🌎 Outside of Coding:<br>I love Skateboarding 🛹, I love art and Nature and also a Sonic Addict 🎶
 <br>
