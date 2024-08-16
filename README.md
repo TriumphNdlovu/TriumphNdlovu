@@ -1,22 +1,27 @@
 # 👋 Hello there, I'm Triumph Ndlovu<br><br>
-### 💼 Professional Background:
-<br>Final Year Computer Science Student @UniversityofPretoria, Full stack Developer that Likes Working with Frameworks
-<br><br>
-### 🚀 Current Focus:
+## 💼 Professional Background:
+### Bachelor of Science in Computer Science
+### University of Pretoria
 <br>
-Currently Learning new frameworks and Bettering my Software Engineering Skills
+I am a recent graduate with a strong foundation in software development, algorithms, and system design. My academic journey included assisting in the Computer Organization and Architecture module, where I evaluated coding practicals and provided student support. Passionate about problem-solving and continuous learning, I am eager to apply my skills to develop innovative software solutions in a collaborative environment.
+<br>
+
+###  🚀 Current Focus:
+<br>
+Actively exploring new frameworks, enhancing my software engineering skills, and seeking opportunities where I can apply my expertise to contribute to innovative and impactful projects.
 <br>
 <br>
 🌟 **Key Skills:**
 
 | Category            | Technologies                                      |
 |---------------------|---------------------------------------------------|
-| Front-end           | HTML, CSS, JavaScript, Angular, tailwind, Next.js |
-| Back-end            | Node.js, Next.js                                  |
+| Front-end           | HTML, CSS ,React , Angular, tailwind, NextUi      |
+| Back-end            | Node.js, Next.js, .NET                            |
 | Databases           | Firebase Firestore, Supabase                      |
 | Version Control     | Git, GitHub                                       |
 | Project Management  | Jira, Notion, GitHub Issues                       |
 | Hosting             | Vercel, Firebase                                  |
+| Cloud               | Microsoft Azure                                   |
 
 
 ### 🌎 Outside of Coding:
