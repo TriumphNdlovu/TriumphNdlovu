@@ -1,42 +1,52 @@
-# 👋 Hi, I'm **Triumph Ndlovu**  
-### 🎓 **BSc Computer Science Graduate** | 🌐 **Software Engineer**  
+# 👋 Hi,  
+🎓 **BSc Computer Science Graduate** | 🌐 **Software Engineer** | 💼 **Freelancer**  
+
+## 🌟 **About Me**  
+
+💡 I am a software developer passionate about creating innovative solutions for real-world challenges. I hold a **BSc in Computer Science** from the **University of Pretoria**, where I gained expertise in system design, algorithms, and problem-solving.  
+
+🔍 **Highlights**:  
+- Assisted in the **Computer Organization and Architecture module** as a teaching assistant.  
+- Delivered impactful freelance projects for clients, specializing in full-stack development.
+---
+
+## 💻 **Tech Stack**  
+
+Here’s what I work with:  
+
+- **Languages:** JavaScript, TypeScript, Java, C++ 
+- **Front-end:** React, Angular, Next.js, Tailwind CSS  
+- **Back-end:** Node.js, Java 
+- **Databases:** Firebase Firestore, Supabase  
 
 ---
 
-## 💡 **About Me**  
+## 🚀 **Real-life Project**
 
-I’m a passionate software developer with a strong foundation in algorithms, system design, and solving real-world problems. I graduated from the **University of Pretoria**, where I gained hands-on experience assisting in the **Computer Organization and Architecture module**.  
 
-I love tackling challenges, learning new tools, and building impactful solutions. When I’m not coding, you’ll find me skateboarding 🛹 or exploring art and nature.  
+### 🎫 **Tropical Summer Slash Ticketing System**  
+- A full-featured event ticketing platform.  
+- **Features:** Real-time ticket verification, email ticket delivery.  
+- **Technologies:** Firebase, React, TypeScript, Node.js.  
 
----
+## 🌐 **Portfolio Website**  
 
-## 🛠️ **Tech Stack**  
-
-| **Category**       | **Technologies**                               |  
-|--------------------|-----------------------------------------------|  
-| **Programming**    | JavaScript, TypeScript, Java, C++, PHP        |  
-| **Front-end**      | React, Angular, Next.js, Tailwind CSS         |  
-| **Back-end**       | Node.js, .NET                                |  
-| **Databases**      | Firebase Firestore, Supabase                 |  
+Want to learn more about me or see additional projects?  
+👉 Visit my portfolio at **[triumphndlovu](https://triumph-portfolio-seven.vercel.app)**!
+play the mini game while at it there 😉
 
 ---
 
-## 🌟 **Featured Projects**  
-
-- **[Tropical Summer Slash](#):** Event ticketing platform with real-time verification and email integration.  
-- **[POS System](#):** Offline-capable Java-based system with inventory management.  
-- **[Portfolio Website](#):** Retro-themed personal portfolio showcasing my work and skills.  
-
----
-
-## 📫 **Connect with Me**  
+## 📫 **Get in Touch**  
 
 - **Email:** [realtriumphndlovu@gmail.com](mailto:realtriumphndlovu@gmail.com)  
-- **LinkedIn:** [Triumph Ndlovu](https://linkedin.com/in/triumph-ndlovu-425b73274)  
+- **LinkedIn:** [Triumph Ndlovu](https://linkedin.com/in/triumph-ndlovu-425b73274)
+- **Portfolio:** [Personal Website](https://triumph-portfolio-seven.vercel.app)
 
 ---
 
-*"Did you know? I skateboard to clear my mind when debugging code!"*  
-![Triumph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriumphNdlovu&show_icons=true&theme=radical)
+## 🎯 **Fun Fact**  
 
+*"I skateboard to clear my mind when debugging complex code!"*
+---
+![](https://komarev.com/ghpvc/?username=TriumphNdlovu)
