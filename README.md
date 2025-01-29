@@ -10,8 +10,7 @@
     <a href="https://triumph-portfolio-seven.vercel.app/">me</a> .
     <a href="https://linkedin.com/in/triumph-ndlovu-425b73274">linkedin</a> .
     <a href="mailto:realtriumphndlovu@gmail.com">mail</a> .
-    <a href="https://wa.me/+27827793863">whatsapp</a> .
-    <a href="tel:+27827793863"><u>phone</u></a>
+    <a href="https://wa.me/+27827793863">whatsapp</a>
   </samp>
 </p>
 
