@@ -1,52 +1,38 @@
-# 👋 Hi,  
-🎓 **BSc Computer Science Graduate** | 🌐 **Software Engineer** | 💼 **Freelancer**  
+<samp>
+ 
 
-## 🌟 **About Me**  
+<h1 align="center">
+  Triumph
+</h1>
 
-💡 I am a software developer passionate about creating innovative solutions for real-world challenges. I hold a **BSc in Computer Science** from the **University of Pretoria**, where I gained expertise in system design, algorithms, and problem-solving.  
+<p align="center">
+  <samp>
+    <a href="https://triumph-portfolio-seven.vercel.app/">me</a> .
+    <a href="https://linkedin.com/in/triumph-ndlovu-425b73274">linkedin</a> .
+    <a href="mailto:realtriumphndlovu@gmail.com">mail</a> .
+    <a href="https://wa.me/+27827793863">whatsapp</a> .
+    <a href="tel:+27827793863"><u>phone</u></a>
+  </samp>
+</p>
 
-🔍 **Highlights**:  
-- Assisted in the **Computer Organization and Architecture module** as a teaching assistant.  
-- Delivered impactful freelance projects for clients, specializing in full-stack development.
----
+I’m a software developer with a BSc in Computer Science from the University of Pretoria. I specialize in system design, algorithms, and problem-solving, and I’m passionate about building innovative solutions for real-world challenges.
 
-## 💻 **Tech Stack**  
+**Highlights**:  
+. Assisted in the **Computer Organization and Architecture module** as a teaching assistant.  
+. Delivered impactful freelance projects for clients, specializing in full-stack development.
 
-Here’s what I work with:  
+**Tech Stack**:  
+. **Languages:** JavaScript, TypeScript, Java, C++  
+. **Front-end:** React, Angular, Next.js, Tailwind CSS  
+. **Back-end:** Node.js, Java  
+. **Databases:** Firebase Firestore, Supabase  
 
-- **Languages:** JavaScript, TypeScript, Java, C++ 
-- **Front-end:** React, Angular, Next.js, Tailwind CSS  
-- **Back-end:** Node.js, Java 
-- **Databases:** Firebase Firestore, Supabase  
-
----
-
-## 🚀 **Real-life Project**
-
-
-### 🎫 **Tropical Summer Slash Ticketing System**  
-- A full-featured event ticketing platform.  
-- **Features:** Real-time ticket verification, email ticket delivery.  
-- **Technologies:** Firebase, React, TypeScript, Node.js.  
-
-## 🌐 **Portfolio Website**  
-
-Want to learn more about me or see additional projects?  
-👉 Visit my portfolio at **[triumphndlovu](https://triumph-portfolio-seven.vercel.app)**!
-play the mini game while at it there 😉
-
----
-
-## 📫 **Get in Touch**  
-
-- **Email:** [realtriumphndlovu@gmail.com](mailto:realtriumphndlovu@gmail.com)  
-- **LinkedIn:** [Triumph Ndlovu](https://linkedin.com/in/triumph-ndlovu-425b73274)
-- **Portfolio:** [Personal Website](https://triumph-portfolio-seven.vercel.app)
-
----
-
-## 🎯 **Fun Fact**  
-
-*"I skateboard to clear my mind when debugging complex code!"*
+<!---**Notable Projects**:  
+. [Project Name](link) - Short description of the project and your role in it.  
+. [Another Project](link) - A brief detail of the project's purpose and technologies used.
+-->
 ---
 ![](https://komarev.com/ghpvc/?username=TriumphNdlovu)
+</samp>
+
+
