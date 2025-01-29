@@ -24,8 +24,8 @@ I’m a software developer with a BSc in Computer Science from the University of
 **Tech Stack**:  
 . **Languages:** JavaScript, TypeScript, Java, C++  
 . **Front-end:** React, Angular, Next.js, Tailwind CSS  
-. **Back-end:** Node.js, Java  
-. **Databases:** Firebase Firestore, Supabase  
+. **Back-end:** Node.js, Java, GO  
+. **Databases:** Firebase Firestore, Supabase, MongoDB, MySQL
 
 <!---**Notable Projects**:  
 . [Project Name](link) - Short description of the project and your role in it.  
