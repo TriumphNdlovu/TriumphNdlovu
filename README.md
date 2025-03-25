@@ -10,7 +10,8 @@
     <a href="https://triumph-portfolio-seven.vercel.app/">me</a> .
     <a href="https://linkedin.com/in/triumph-ndlovu-425b73274">linkedin</a> .
     <a href="mailto:realtriumphndlovu@gmail.com">mail</a> .
-    <a href="https://wa.me/+27827793863">whatsapp</a>
+    <a href="https://wa.me/+27827793863">whatsapp</a> .
+   <a href="https://jobman-xi.vercel.app/">jobman</a>
   </samp>
 </p>
 
@@ -18,7 +19,9 @@ I’m a software developer with a BSc in Computer Science from the University of
 
 **Highlights**:  
 . Assisted in the **Computer Organization and Architecture module** as a teaching assistant.  
-. Delivered impactful freelance projects for clients, specializing in full-stack development.
+. Delivered impactful freelance projects for clients, specializing in full-stack development. 
+<br>
+. Creator of <a href="https://jobman-xi.vercel.app/" target="_blank" rel="noopener noreferrer">jobman</a>.
 
 **Tech Stack**:  
 . **Languages:** JavaScript, TypeScript, Java, C++  
